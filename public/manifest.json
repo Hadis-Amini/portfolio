@@ -1,19 +1,19 @@
 {
-  "short_name": "Portfolio",
-  "name": "Pranav Arya's Portfolio",
-  "description": "A passionate Full Stack Web Developer and Machine Learning enginner .",
-    "icons": [
-      {
-        "src": "./favicon.png",
-        "type": "image/png",
-        "sizes": "192x192"
-      },
-      {
-        "src": "./favicon.png",
-        "type": "image/png",
-        "sizes": "512x512"
-      }
-    ],
+  "short_name": "Hadis",
+  "name": "Hadis Amini's Portfolio",
+  "description": "Frontend Developer in Training | HTML, CSS, Bootstrap, JavaScript",
+  "icons": [
+    {
+      "src": "./favicon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./favicon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
   "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#11cdef",

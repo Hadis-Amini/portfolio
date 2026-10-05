@@ -18,7 +18,7 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-  url: "https://portfoilo-weld.vercel.app/",
+  url: "https://hadis-amini-portfolio.netlify.app/",
   linkedin: "https://www.linkedin.com/in/hadis-amini-38ab27177/",
   github: "https://github.com/Hadis-Amini",
 };
