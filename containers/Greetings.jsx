@@ -40,7 +40,6 @@ const Greetings = () => {
                       className="btn-white btn-icon mb-3 mb-sm-0 ml-1"
                       color="default"
                       href={greetings.resumeLink}
-                      download="Hadis-Amini.pdf"
                     >
                       <span className="btn-inner--icon mr-1">
                         <i className="fa fa-file" />
