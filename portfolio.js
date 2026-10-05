@@ -117,7 +117,7 @@ export const experience = [
   {
     role: "English Translator",
     company: "Freelance",
-    icon: "language",
+    icon: "world",
     companylogo: "",
     date: "",
     desc: "",
@@ -130,7 +130,7 @@ export const experience = [
   {
     role: "Office Employee",
     company: "Jangal Publications",
-    icon: "book",
+    icon: "books",
     companylogo: "",
     date: "",
     desc: "",
@@ -143,7 +143,7 @@ export const experience = [
   {
     role: "English Teacher",
     company: "Sahar English Language Institute",
-    icon: "teacher",
+    icon: "ruler-pencil",
     companylogo: "",
     date: "",
     desc: "",
